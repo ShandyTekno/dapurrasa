@@ -1,6 +1,6 @@
 # DapurRasa — PT EL Capcay
 
-Milil : EL Shandy
+Milik : EL Shandy
 
 Website dinamis berbasis **Laravel** untuk UMKM kuliner **DapurRasa** di bawah naungan **PT EL Capcay**, yang bergerak di bidang layanan **catering, nasi kotak, lauk pauk, makanan tradisional, dan paket acara Nusantara**.
 
